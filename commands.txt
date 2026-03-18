@@ -1,0 +1,4 @@
+commands:
+
+py -3.12 -m pip install psutil
+python realtime_process_monitoring_dashboard.py
